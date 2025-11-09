@@ -1,0 +1,13 @@
+========================================
+|    User and Group enumeration results    |
+========================================
+
+index: 0x2001 RID: 0x1F4 acct: Administrator  name: Administrator  desc: Built-in account for administering the computer/domain
+index: 0x2002 RID: 0x1F5 acct: Guest          name: Guest          desc: Built-in account for guest access
+index: 0x2003 RID: 0x3E8 acct: msfadmin       name: msfadmin       desc: Metasploitable Service Account
+index: 0x2004 RID: 0x3E9 acct: user           name: user           desc: Standard User Account
+index: 0x2005 RID: 0x3EA acct: service        name: service        desc: Service Daemon Account
+
+... (Outras informações de rede e compartilhamentos omitidas para foco) ...
+
+Enumeração de Usuários Concluída.
